@@ -42,7 +42,7 @@ function sleep(ms) {
 
 async function farmloop() {
     while (true) {
-        await sleep(1000 * 1);
+        await sleep(1000 * 5);
         coins += Math.round(farm / 0.5);
         update();
     }

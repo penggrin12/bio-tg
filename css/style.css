@@ -1,7 +1,6 @@
 body {
   background-color: #343941;
   color: white;
-  padding: .8em .6em;
   border-radius: 6px;
   text-align: center;
   font-family: 'Roboto', sans-serif;
@@ -9,4 +8,10 @@ body {
 
 a {
   color: wheat;
+}
+
+header {
+  margin-left: 5px;
+  text-align: left;
+  color: dimgray;
 }

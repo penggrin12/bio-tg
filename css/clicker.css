@@ -15,7 +15,6 @@ header {
 .ascii {
     font-family: monospace;
     white-space: pre;
-    border-spacing: 0px;
 }
 
 a {
