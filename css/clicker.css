@@ -1,0 +1,32 @@
+body {
+  background-color: #343941;
+  color: white;
+  text-align: left;
+  font-family: monospace;
+  margin-left: 50px;;
+}
+
+header {
+  margin-left: -45px;
+  text-align: center;
+  background-color: #344444;
+}
+
+.ascii {
+    font-family: monospace;
+    white-space: pre;
+    border-spacing: 0px;
+}
+
+a {
+  color: wheat;
+}
+
+button {
+  color: black;
+  background-color: wheat;
+  font-size: medium;
+  border-width: thin;
+  font-family: monospace;
+  white-space: pre;
+}
